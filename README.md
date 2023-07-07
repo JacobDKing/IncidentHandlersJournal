@@ -5,7 +5,7 @@ While this project covers the overall documentation of several incidents, it is 
 <br />
 <br />
 
-<h1>Scenario #1:</h1>
+<h1>Scenario #1 (Investigating Ransomware Attack):</h1>
 A small U.S. health care clinic specializing in delivering primary-care services experienced a security incident on a Tuesday morning, at approximately 9:00 a.m. Several employees reported that they were unable to use their computers to access files like medical records. Business operations shut down because employees were unable to access the files and software needed to do their job.
 
 Additionally, employees also reported that a ransom note was displayed on their computers. The ransom note stated that all the company's files were encrypted by an organized group of unethical hackers who are known to target organizations in healthcare and transportation industries. In exchange for restoring access to the encrypted files, the ransom note demanded a large sum of money in exchange for the decryption key. 
