@@ -1,6 +1,9 @@
 # Documenting Security Incidents with an Incident Handler's Journal
 This project outlines several unique incidents and shows my comfortability with responding to and documenting the details of Security Events in an Incident Handler's Journal.
-While this project covers the overall documentation of several incidents, it is made up of multiple other projects. Direct links to these projects will be provided below along with the [Incident Handler's Journal](https://github.com/JacobDKing/IncidentHandlersJournal/blob/main/Incident%20handler's%20journal%20.pdf) itself.
+While this project covers the overall documentation of several incidents, it is made up of multiple other projects several of which will have their own project repositories. Direct links to these projects will be provided below along with the [Incident Handler's Journal](https://github.com/JacobDKing/IncidentHandlersJournal/blob/main/Incident%20handler's%20journal%20.pdf) itself.
+  - [Analyzing Packet With Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
+  - [Capturing Packet With TCPdump]
+  - [Investigating a Suspicious Hash File]
 
 <br />
 <br />
