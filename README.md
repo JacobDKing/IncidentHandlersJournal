@@ -2,7 +2,7 @@
 This project outlines several unique incidents and shows my comfortability with responding to and documenting the details of Security Events in an Incident Handler's Journal.
 While this project covers the overall documentation of several incidents, it is made up of multiple other projects several of which will have their own project repositories. Direct links to these projects will be provided below along with the [Incident Handler's Journal](https://github.com/JacobDKing/IncidentHandlersJournal/blob/main/Incident%20handler's%20journal%20.pdf) itself, which can also be found in this projects main repository.
   - [Analyzing Packet With Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
-  - [Capturing Packet With TCPdump](https://github.com/JacobDKing/CapturePacketWithTcpdump)
+  - [Capturing Packet With TCPdump](https://github.com/JacobDKing/CapturePacketWithTcpdump) 
   - [Investigating a Suspicious Hash File]
 
 <br />
